@@ -9,8 +9,10 @@ Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app w
 
 
 
-## Create a Windows installer (.exe file)
+## Create a Windows installer (.exe file) Package and Distribute
 https://github.com/hisschemoller/nwjs-tutorial
+
+http://docs.nwjs.io/en/latest/For%20Users/Package%20and%20Distribute/
 
 ## Code scaffolding
 
